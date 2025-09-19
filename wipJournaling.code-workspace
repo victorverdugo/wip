@@ -3,5 +3,8 @@
 		{
 			"path": "../journaling"
 		}
-	]
+	],
+	"settings": {
+		"editor.cursorSmoothCaretAnimation": "on"
+	}
 }
