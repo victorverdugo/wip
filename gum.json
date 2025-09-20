@@ -1,5 +1,5 @@
 {
-  "title": "GUM JOURNAL",
+  "title": "GUM | Dev Journal",
   "subtitle": "Houdini exploration in three acts.",
   "logs": [
     {
@@ -18,7 +18,17 @@
     },
     {
       "p": "I think creating **my own constraints** is the way to go.",
-      "d": "1.ago.2025"
+      "d": "1.ago.2025",
+      "i": "https://dl.dropboxusercontent.com/scl/fi/5bfbdun227zzowera1xid/gum_004.jpg?rlkey=khfder3yu47ezh1uiwsvdwxzv&dl=0"
+    },
+    {
+      "p": "I got tired of working on the gum simulation, so I started with the packaging.",
+      "d": "2025-09-02",
+      "i": "https://dl.dropboxusercontent.com/scl/fi/uarg8x0c6b5uo1yqoyfyb/gum_007.jpg?rlkey=2itaz5eiqvh69cyta61rt97ly&dl=0"
+    },
+    {
+      "p": "Putting all together, just blocking, lookig for framing and compositions.",
+      "d": "2025-09-03",
+      "i": "https://dl.dropboxusercontent.com/scl/fi/sr3jzkntjk2beylqy7feu/gum_006.jpg?rlkey=8hj7r61j1q4du0kxwm829m0ou&dl=0"
     }
-  ]
-}
+  ]}
