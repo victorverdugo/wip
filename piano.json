@@ -1,0 +1,11 @@
+{
+  "title": "Piano Machine | Dev Journal",
+  "subtitle": "Let's try not to use Houdini this time.",
+  "logs": [
+    {
+      "p": ["I started the day looking for sound fxs, I try to **attack** the project from different angles so I don't get borred of digging all the time on the same task.",
+            "Now I need to know how MIDI works, I'm planning to rig the keyboards so they react to the Midi file."],
+      "i": "",
+      "d": "2025-10-05"
+    }
+  ]}
