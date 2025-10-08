@@ -3,7 +3,13 @@
   "subtitle": "Let's try not to use Houdini this time.",
   "logs": [
     {
-      "p": ["I started the day looking for sound fxs, I try to *'attack'* the project from different angles so I don't get borred of digging all the time on the same task.",
+      "p": ["Today I've been doing some reaserch on Gaussian Splats and Point Clouds rendering."],            
+            
+      "i": "",
+      "d": "2025-10-08"
+    },
+    {
+      "p": ["I started the day looking for sound fxs, I try to *attack* the project from different angles so I don't get borred of digging all the time on the same task.",
             "Now I need to know how MIDI works, I'm planning to rig the keyboards so they react to the Midi file.",
             "I started figuire out the *felt* material."],
       "i": "",
